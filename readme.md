@@ -11,8 +11,7 @@ Antes de comenzar:
 1. Abrir una nueva ventana del VSCode `Ctrl +  Shift + N`.
 2. Clonar el siguiente repositorio: `https://github.com/rodri-afa/1_EED-22_23-recuperacion-1ev`.
 3. Guardarlo en local, por ejemplo en la carpeta documentos. Es necesario que dicha carpeta no sea ya un repositorio.
-4. Asegurarse de que la carpeta clonada se encuentra abierta como carpeta raiz en el VSCode:
-   <img src="" width="500"/>
+4. Asegurarse de que la carpeta clonada se encuentra abierta como carpeta raiz en el VSCode
 
 ### Enunciado
 

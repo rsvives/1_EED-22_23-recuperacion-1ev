@@ -21,7 +21,7 @@ Se van a realizar una serie de acciones en commits separados. Es **MUY IMPORTANT
 - Hacer commit cada vez que se termine de hacer el conjunto de acciones descritas en cada commit **(opción recomendada)**
 - Utilizar la fase Stage, previa al commit, e ir seleccionando los diferentes archivos (con el icono del `+`) sobre los que se va a hacer commit.
 
-> **Warning**
+> <p style="color:#D29922"><b>⚠️ Aviso!</b></p> 
 > Es necesario tener al menos 3 de los 4 commits para aprobar
 
 #### Commit 1 (mensaje: crear script)

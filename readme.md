@@ -32,22 +32,22 @@ Se van a realizar una serie de acciones en commits separados. Es **MUY IMPORTANT
   console.log("Hola mundo");
   ```
 
-### Commit 2(mensaje: modificar html)
+#### Commit 2(mensaje: modificar html)
 
 - Sustituir la **línea 30** del archivo `index.html` por: `<script src="./script.js"></script>`
 
-### Commit 3(mensaje: borrar css)
+#### Commit 3(mensaje: borrar css)
 
 - Borrar el archivo style.css
 
-### Commit 4(mensaje: carpeta)
+#### Commit 4(mensaje: carpeta)
 
 - Crear una carpeta llamada `carpeta` y en su interior crear dos archivos con el siguiente texto:
 
   - `pagina1.html` : `<h1>Esto es la página 1</h1>`
   - `pagina2.html` : `<h1>Esto es la página 2</h1>`
 
-## Entrega
+### Entrega
 
 1. Hacer push y crear una bifurcación (fork) en github.
 2. Comprimir la carpeta 1_EED-22_23-recuperacion-1ev en formato .zip y subirlo al campus.
